@@ -1,21 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic_code.iml" afterDir="false" />
+    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="第一次测试">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo01Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo02Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo03VariableNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo01DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo02DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo03DataTypeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo04Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo05Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo06Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo07Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo08Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo09Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo10Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo11Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo12Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo13Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent_dependent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.9.11" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.11\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="36PE0F1b0I8af0L25FUFSX7mlcK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -30,11 +76,71 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/javacode/code/java_basic_code/demo1/src/main/java/day2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day2" />
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Demo13Notice">
+    <configuration name="Demo01Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.Demo01Const" />
+      <module name="demo1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03VariableNotice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.Demo03VariableNotice" />
+      <module name="demo1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo13Notice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Demo13Notice" />
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.HelloWorld" />
+      <module name="demo1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Demo13Notice" />
+        <item itemvalue="应用程序.Demo01Const" />
+        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="应用程序.Demo03VariableNotice" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -43,8 +149,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764899590066</updated>
-      <workItem from="1764899591423" duration="159000" />
+      <workItem from="1764899591423" duration="1329000" />
+      <workItem from="1764900947896" duration="2563000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次测试">
+      <created>1764900014179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764900014179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +167,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="第一次测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次测试" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day1/HelloWorld.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
