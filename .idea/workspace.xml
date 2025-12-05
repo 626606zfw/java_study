@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="第一次测试">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo01Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo02Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/Demo03VariableNotice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo01DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo02DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo03DataTypeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo04Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo05Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo06Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo07Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo08Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo09Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo10Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo11Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo12Notice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day2/Demo13Notice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parent_dependent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="code submit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +12,7 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
+      <option value="directory" />
     </option>
   </component>
   <component name="Git.Settings">
@@ -150,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764899590066</updated>
       <workItem from="1764899591423" duration="1329000" />
-      <workItem from="1764900947896" duration="2563000" />
+      <workItem from="1764900947896" duration="2901000" />
     </task>
     <task id="LOCAL-00001" summary="第一次测试">
       <created>1764900014179</created>
@@ -159,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1764900014179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code submit">
+      <created>1764903774650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764903774650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次测试" />
+    <MESSAGE value="code submit" />
+    <option name="LAST_COMMIT_MESSAGE" value="code submit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
