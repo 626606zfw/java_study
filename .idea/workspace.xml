@@ -4,7 +4,246 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="code submit" />
+    <list default="true" id="78009ac9-8fec-4189-8a6d-2373dcc629ac" name="更改" comment="code submit">
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo01/Demo01Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo01/Demo02ScannerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo01/Demo03ScannerMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo02/Demo01Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo02/Demo02Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo03/Demo01Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo03/Demo02Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo03/Demo03Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo03/Demo04RandomGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Demo01Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Demo02ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Demo03ArrayListMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Demo04ArrayListEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Demo05ArrayListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo05/Demo01ArrayListRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo05/Demo02ArrayListStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo05/Demo03ArrayListPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo05/Demo04ArrayListReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day07/demo05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo01/Assistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo01/Demo01Extends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo01/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo02/Demo01ExtendsField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo02/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo02/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo03/Demo01ExtendsField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo03/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo03/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo04/Demo01ExtendsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo04/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo04/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo05/Demo01Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo05/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo05/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo06/Demo01Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo06/NewPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo06/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo07/Demo01Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo07/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo07/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo08/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo08/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo09/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo09/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo10/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo10/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo10/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo11/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo11/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo11/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo12/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo12/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo12/MyAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo12/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo13/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo13/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo13/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo13/Dog2Ha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo13/DogGolden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo14/MainRedPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo14/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo14/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day09/demo14/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/Demo01Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/Demo02Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/Demo03Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/Demo04Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/Demo05Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceAbstractImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceDefaultA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceDefaultB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfacePrivateA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfacePrivateAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfacePrivateB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo01/MyInterfaceStaticImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/Demo01Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/MyInterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/MyInterfaceAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/MyInterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo02/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo03/Demo01Relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo03/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo03/MyInterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo03/MyInterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo03/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo04/Demo01Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo04/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo04/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo05/Demo01MultiField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo05/Demo02MultiMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo05/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo05/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo06/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo06/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo06/Demo01Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo06/Demo02Instanceof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo07/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo07/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo07/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo07/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day10/demo07/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/Demo01Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo01/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo02/Demo01Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo02/MyAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo02/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo02/sub/MySon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo02/sub/Stranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo03/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo03/Demo01InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo03/Demo02InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo03/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo04/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo04/MyOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo04/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo05/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo05/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo05/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo06/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo06/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo06/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo07/DemoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo07/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo07/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo07/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo07/SkillImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo08/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo08/MyRed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo08/NormalMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/demo08/RandomMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/red/OpenMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day11/red/RedPacketFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo01Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo02If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo03IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo04IfElseExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo05IfElsePractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo06Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo07Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo08SwitchNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo09For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo10While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo11DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo12HundredSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo13LoopDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo14Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo15Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo16DeadLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day3/Demo17LoopHourAndMinute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo01/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo02/Demo01Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo02/Demo02MethodDefine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo02/Demo03MethodParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo02/Demo04MethodReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo03/Demo01MethodSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo03/Demo02MethodSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo03/Demo03MethodPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo03/Demo04MethodNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo04/Demo01MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo04/Demo02MethodOverloadSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo04/Demo03OverloadJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day4/demo04/Demo04OverloadPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo01Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo02Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo03Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo05ArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo01ArrayOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo02ArrayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo03ArraySame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo01ArrayIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo02ArrayNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo03ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo04Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo05ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo06ArrayMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo04/Demo01ArrayParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day5/demo04/Demo02ArrayReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo01/Demo01PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo01/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Demo01PhoneOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Demo02PhoneTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Demo03PhoneSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Demo04PhoneParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Demo05PhoneReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Demo01VariableDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Demo02Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Demo03Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Demo04Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo04/Demo01Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo04/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo05/Demo01Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day6/demo05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo01/Demo01String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo01/Demo02StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo01StringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo02StringGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo03Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo04StringConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo05StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo06StringPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo02/Demo07StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Demo01StaticField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Demo02StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Demo03StaticStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Demo04Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo04/Demo01Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo04/Demo02ArraysPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo04/Demo03Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/day8/demo04/Demo04MathPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +252,13 @@
   <component name="ChangesViewManager">
     <option name="groupingKeys">
       <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
   </component>
   <component name="Git.Settings">
@@ -52,7 +298,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/javacode/code/java_basic_code/demo1/src/main/java/day2",
+    "last_opened_file_path": "D:/javacode/code/java_basic_code/demo1/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,31 +312,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day2" />
       <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java" />
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day8" />
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day6" />
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day5" />
+      <recent name="D:\javacode\code\java_basic_code\demo1\src\main\java\day4" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo13Notice">
-    <configuration name="Demo01Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Demo01Const" />
-      <module name="demo1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo03VariableNotice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Demo03VariableNotice" />
-      <module name="demo1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo13Notice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Demo13Notice" />
+  <component name="RunManager" selected="应用程序.Zi">
+    <configuration name="Demo01ExtendsField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day09.demo02.Demo01ExtendsField" />
       <module name="demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day09.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +333,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.HelloWorld" />
+    <configuration name="Demo02Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day07.demo03.Demo02Random" />
       <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day07.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04ArrayListEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day07.demo04.Demo04ArrayListEach" />
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day07.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyInterfaceStaticImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10.demo01.MyInterfaceStaticImpl" />
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.demo01.Zi" />
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Demo13Notice" />
-        <item itemvalue="应用程序.Demo01Const" />
-        <item itemvalue="应用程序.HelloWorld" />
-        <item itemvalue="应用程序.Demo03VariableNotice" />
+        <item itemvalue="应用程序.Zi" />
+        <item itemvalue="应用程序.MyInterfaceStaticImpl" />
+        <item itemvalue="应用程序.Demo01ExtendsField" />
+        <item itemvalue="应用程序.Demo04ArrayListEach" />
+        <item itemvalue="应用程序.Demo02Random" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +404,9 @@
       <option name="presentableId" value="Default" />
       <updated>1764899590066</updated>
       <workItem from="1764899591423" duration="1329000" />
-      <workItem from="1764900947896" duration="2901000" />
+      <workItem from="1764900947896" duration="12082000" />
+      <workItem from="1765154408274" duration="241000" />
+      <workItem from="1765154674472" duration="2442000" />
     </task>
     <task id="LOCAL-00001" summary="第一次测试">
       <created>1764900014179</created>
@@ -158,6 +441,86 @@
           <url>file://$PROJECT_DIR$/demo1/src/main/java/day1/HelloWorld.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo01/Demo04ArrayUse.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo4Test.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo4Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo4Test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo02/Demo4Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/main/java/day5/demo03/Demo07ArrayReverse.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
